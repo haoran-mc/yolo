@@ -34,10 +34,12 @@ func ExecuteCommand(command string) (string, string, error) {
 
 	go func() {
 		_, errStdout = io.Copy(stdout, stdoutIn)
+		log.Info(errStdout.Error())
 	}()
 
 	go func() {
 		_, errStderr = io.Copy(stderr, stderrIn)
+		log.Info(errStderr.Error())
 	}()
 
 	if err := cmd.Wait(); err != nil {

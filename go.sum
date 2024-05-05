@@ -1,0 +1,14 @@
+github.com/azer/is-terminal v1.0.0 h1:COvj8jmg2xMz0CqHn4Uu8X1m7Dmzmu0CpciBaLtJQBg=
+github.com/azer/is-terminal v1.0.0/go.mod h1:5geuIpRQvdv6g/Q1MwXHbmNUlFLg8QcheGk4dZOmxQU=
+github.com/azer/logger v1.0.0 h1:3T4BnTLyndJWHajOyECt2kAhnvP30KCrVAkYcMjHrXk=
+github.com/azer/logger v1.0.0/go.mod h1:iaDID7UeBTyUh31bjGFlLkr87k23z/mHMMLzt6YQQHU=
+github.com/azer/yolo v0.0.0-20200421082124-9f74cacbc50c h1:x4m/FfaAsQqLZxKNzpSVaVPP79g91yg1cbRpc0aK4Yo=
+github.com/azer/yolo v0.0.0-20200421082124-9f74cacbc50c/go.mod h1:STi2LrClOuieEG7rszDymhqSV0pEVo2Aaf8+jwIAF2g=
+github.com/fsnotify/fsnotify v1.7.0 h1:8JEhPFa5W2WU7YfeZzPNqzMP6Lwt7L2715Ggo0nosvA=
+github.com/fsnotify/fsnotify v1.7.0/go.mod h1:40Bi/Hjc2AVfZrqy+aj+yEI+/bRxZnMJyTJwOpGvigM=
+github.com/gorilla/websocket v1.5.1 h1:gmztn0JnHVt9JZquRuzLw3g4wouNVzKL15iLr/zn/QY=
+github.com/gorilla/websocket v1.5.1/go.mod h1:x3kM2JMyaluk02fnUJpQuwD2dCS5NDG2ZHL0uE0tcaY=
+golang.org/x/net v0.17.0 h1:pVaXccu2ozPjCXewfr1S7xza/zcXTity9cCdXQYSjIM=
+golang.org/x/net v0.17.0/go.mod h1:NxSsAGuq816PNPmqtQdLE42eU2Fs7NoRIZrHJAlaCOE=
+golang.org/x/sys v0.13.0 h1:Af8nKPmuFypiUBjVoU9V20FiaFXOcuZI21p0ycVYYGE=
+golang.org/x/sys v0.13.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
